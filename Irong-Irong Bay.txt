@@ -1,0 +1,896 @@
+Year	Month	Day	Date	Time	Sample depth	Taxa	Genus	Species	"habs/
+nonhabs"	Effect	Toxin	 Density 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Bacteriastrum	Bacteriastrum comosum				" 2,025 "							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Bacteriastrum	Bacteriastrum furcatum				" 4,000 "							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Bacteriastrum	Bacteriastrum minus				" 2,163 "							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Chaetoceros	Chaetoceros compressus				" 1,600 "							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Chaetoceros	Chaetoceros curvisetus				" 4,600 "							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Chaetoceros	Chaetoceros danicus				 488 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Chaetoceros	Chaetoceros decipiens				 413 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Chaetoceros	Chaetoceros denticulatus				 188 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Chaetoceros	Chaetoceros didymus				 413 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Chaetoceros	Chaetoceros paradoxus				" 1,200 "							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Chaetoceros	Chaetoceros peruvianus				 275 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Chaetoceros	Chaetoceros radicans				" 2,100 "							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Coscinodiscus	Coscinodiscus granii				 38 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Coscinodiscus	Coscinodiscus wailesii				 275 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Cylindrotheca	Cylindrotheca closterium				 125 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Dactyliosolen	Dactyliosolen phuketensis				 663 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Detonula	Detonula confervacea				" 1,288 "							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Lauderia	Lauderia annulata				 375 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Leptocylindrus	Leptocylindrus danicus				 425 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Planktoniella	Planktoniella blanda				 150 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Pleurosigma	Pleurosigma angulatum				 50 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Pleurosigma	Pleurosigma normanii				 75 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.2	habs	ASP	Domoic acid	 525 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Rhizosolenia	Rhizosolenia crassispina				 275 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Rhizosolenia	Rhizosolenia setigera				 25 							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Skeletonema	Skeletonema spp.				" 3,150 "							
+2020	June	11	06/11/2020	12:10 PM	1	Diatom	Thalassionema	Thalassionema nitzchioides				" 1,325 "							
+2020	June	11	06/11/2020	12:10 PM	1	Dinoflagellate	Ceratium	Ceratium furca	habs	nontoxic (anoxic)		 550 							
+2020	June	11	06/11/2020	12:10 PM	1	Dinoflagellate	Ceratium	Ceratium fusus	habs	nontoxic (anoxic)		 25 							
+2020	June	11	06/11/2020	12:10 PM	1	Dinoflagellate	Ceratium	Ceratium trichoceros	habs	nontoxic (anoxic)		 75 							
+2020	June	11	06/11/2020	12:10 PM	1	Dinoflagellate	Noctiluca	Noctiluca scintillans	habs	Fish killl caused by anoxia		 100 							
+2020	June	11	06/11/2020	12:10 PM	1	Dinoflagellate	Prorocentrum	Prorocentrum sigmoides	habs	nontoxic (anoxic)		 38 							
+2020	June	11	06/11/2020	12:10 PM	1	Dinoflagellate	Protoperidinium	Protoperidinium oceanicum				 25 							
+2020	June	11	06/11/2020	12:10 PM	1	Dinoflagellate	Protoperidinium	Protoperidinium oceanicum				 -   							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Bacteriastrum	Bacteriastrum comosum				" 1,675 "							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Bacteriastrum	Bacteriastrum functum				 650 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Bacteriastrum	Bacteriastrum furcatum				" 6,875 "							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Bacteriastrum	Bacteriastrum minus				" 4,725 "							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Chaetoceros	Chaetoceros compressus				" 1,250 "							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Chaetoceros	Chaetoceros curvisetus				" 2,325 "							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Chaetoceros	Chaetoceros danicus				 125 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Chaetoceros	Chaetoceros decipiens				 575 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Chaetoceros	Chaetoceros denticulatus				 225 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Chaetoceros	Chaetoceros lorenzianus				 175 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Chaetoceros	Chaetoceros paradoxus				 763 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Chaetoceros	Chaetoceros peruvians				 150 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Chaetoceros	Chaetoceros peruvianus				 25 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Chaetoceros	Chaetoceros radicans				 475 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Coscinodiscus	Coscinodiscus granii				 100 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Coscinodiscus	Coscinodiscus wailesii				 63 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Cylindrotheca	Cylindrotheca closterium				 125 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Dactyliosolen	Dactyliosolen phuketensis				 50 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Detonula	Detonula confervacea				" 1,388 "							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Eucampia	Eucampia zodiacus				 50 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Guinardia	Guinardia placida				 125 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Lauderia	Lauderia annulata				 188 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Leptocylindrus	leptocylindrus danicus				 25 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Lioloma	lioloma pacificum				 538 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Odontella	Odontella sinensis				 25 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Pleurosigma	Pleurosigma angulatum				 300 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Pleurosigma	Pleurosigma normanii				 63 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.2	habs	ASP		 650 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Rhizosolenia	Rhizosolenia setigera				 175 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Skeletonema	Skeletonema spp.				" 8,950 "							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Thalassionema	Thalassionema nitzchioides				 225 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Thalassiosora	Thalassiosora bacillare				 325 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Thalassiosora	Thalassiosora punctigra 				 113 							
+2020	July	9	07/09/2020	1:17 PM	1	Diatom	Thalassiosora	Thalassiosora subtilis				 75 							
+2020	July	9	07/09/2020	1:17 PM	1	Dinoflagellate	Ceratium	Ceratium furca 	habs	nontoxic (anoxic)		 650 							
+2020	July	9	07/09/2020	1:17 PM	1	Dinoflagellate	Ceratium	Ceratium fusus	habs	nontoxic (anoxic)		 225 							
+2020	July	9	07/09/2020	1:17 PM	1	Dinoflagellate	Ceratium	Ceratium trichoceros	habs	nontoxic (anoxic)		 63 							
+2020	July	9	07/09/2020	1:17 PM	1	Dinoflagellate	Noctiluca	Noctiluca scintillans	habs	Fish killl caused by anoxia		 100 							
+2020	July	9	07/09/2020	1:17 PM	1	Dinoflagellate	Prorcentrum	Prorcentrum sigmoides	habs	nontoxic (anoxic)		 425 							
+2020	July	9	07/09/2020	1:17 PM	1	Dinoflagellate	Prorocentrum	Prorocentrum micans	habs	nontoxic (anoxic)		 263 							
+2020	July	9	07/09/2020	1:17 PM	1	Dinoflagellate	Prorocentrum	Prorocentrum sigmoides	habs	nontoxic (anoxic)		 25 							
+2020	July	9	07/09/2020	1:17 PM	1	Dinoflagellate	Protoperedinium	Protoperedinium oceanicum				 300 							
+2020	July	9	07/09/2020	1:17 PM	1	Dinoflagellate	Protoperidinium	Protoperidinium oceanicum				 200 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Asterionellopsis	Asterionellopsis glacialis				 150 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Bacteriastrum	Bacteriastrum comosum				 25 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Bacteriastrum	Bacteriastrum furcatum				 525 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Bacteriastrum	Bacteriastrum minus				 175 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Chaetoceros	Chaetoceros affinis				 300 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Chaetoceros	Chaetoceros curvisetus				 150 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Chaetoceros	Chaetoceros decipiens				 375 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Chaetoceros	Chaetoceros didymus				 425 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Chaetoceros	Chaetoceros paradoxus				 75 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Chaetoceros	Chaetoceros peruvians				 125 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Chaetoceros	Chaetoceros radicans				 175 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Coscinodiscus	Coscinodiscus granii				 100 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Coscinodiscus	Coscinodiscus wailesii				 50 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Cylindrotheca	Cylindrotheca closterium				 75 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Dactyliosolen	Dactyliosolen phuketensis				 125 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Detonula	Detonula confervacea				 225 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Hemiaulus	Hemiaulus sp.				 100 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Lioloma	Lioloma pacificum				 200 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Odontella	Odontella sinensis				 100 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Planktoniella	Planktoniella blanda				 25 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Pleurosigma	Pleurosigma angulatum				 50 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Pleurosigma	Pleurosigma normanii				 125 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia pungens	habs	ASP	Domoic acid	" 4,025 "							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.1	habs	ASP	Domoic acid	 375 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.2	habs	ASP	Domoic acid	" 4,725 "							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.3	habs	ASP	Domoic acid	 700 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Skeletonema	Skeletonema spp.				" 8,000 "							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Thalassionema	Thalassionema nitzchioides				" 2,625 "							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Thalassiosora	Thalassiosora bacillare				 25 							
+2020	August	13	08/13/2020	12:30 AM		Diatom	Thalassiosora	Thalassiosora punctigra 				 25 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Alexandrium	Alexandrium compressum	habs	PSP	Saxitoxin	 200 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Ceratium	Ceratium furca 	habs	nontoxic (anoxic)		 375 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Ceratium	Ceratium fusus	habs	nontoxic (anoxic)		 338 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Ceratium	Ceratium incisum	habs	nontoxic (anoxic)		 75 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Ceratium	Ceratium lunula	habs	nontoxic (anoxic)		 25 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Ceratium	Ceratium trichoceros	habs	nontoxic (anoxic)		 225 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Ceratium	Ceratium tripos	habs	nontoxic (anoxic)		 175 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Ceratium	Ceratium veltur	habs	nontoxic (anoxic)		 150 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Dinophsis	Dinophsis caudata	habs	DSP	"OA, DTXs"	 50 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Dinophysis	Dinophysis caudata	habs	DSP	"OA, DTXs"	 75 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Gymnodinium	Gymnodinium sp.	habs	PSP		 113 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Noctiluca	Noctiluca scintillans	habs	Fish killl caused by anoxia		 925 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Phyrophacus	Phyrophacus horologium				 25 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Prorocentrum	Prorocentrum micans	habs	nontoxic (anoxic)		 188 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Prorocentrum	Prorocentrum sigmoides	habs	nontoxic (anoxic)		 50 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Protoperidinium	Protoperidinium mite				 188 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Protoperidinium	Protoperidinium oblumgum				 63 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Protoperidinium	Protoperidinium oceanicum				 150 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Protoperidinium	Protoperidinium pyriforme				 75 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Protopreidinium	Protopreidinium oceanicum				 75 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Pyrodinium	Pyrodinium bahamense	habs	PSP		 150 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Pyrophacus	Pyrophacus horologium				 25 							
+2020	August	13	08/13/2020	12:30 AM		Dinoflagellate	Pyrophacus	Pyrophacus steinii				 25 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Bacillaria	Bacillaria paxillifera				 425 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Bacteriastrum	Bacteriastrum minus				 750 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Chaetoceros	Chaetoceros curvisetus				" 1,338 "							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Chaetoceros	Chaetoceros danicus				 75 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Chaetoceros	Chaetoceros didymus				 200 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Chaetoceros	Chaetoceros lorenzianus				 100 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Chaetoceros	Chaetoceros paradoxus				 663 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Chaetoceros	Chaetoceros peruvianus				 -   							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Chaetoceros	Chaetoceros radicans				 300 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Coscinodiscus	Coscinodiscus granii				 75 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Coscinodiscus	Coscinodiscus wailesii				 25 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Cylindrotheca	Cylindrotheca closterium				 75 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Detonula	Detonula confervacea				 225 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Guinardia	Guinardia flacida				 200 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Lioloma	Lioloma pacificum				 125 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Odontella	Odontella mobiliensis				 25 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Odontella	Odontella sinensis				 125 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Pleurosigma	Pleurosigma angulatum				 300 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Pleurosigma	Pleurosigma normanii				 50 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia pungens	habs	ASP	Domoic acid	" 1,825 "							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.1	habs	ASP	Domoic acid	 475 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.2	habs	ASP	Domoic acid	" 1,888 "							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Rhizosolenia	Rhizosolenia crassispina				 50 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Rhizosolenia	Rhizosolenia setigera				 25 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Skeletonema	Skeletonema spp.				" 11,025 "							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Thalassionema	Thalassionema nitzchioides				" 1,225 "							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Thalassiosira	Thalassiosira bacillare				 113 							
+2020	September	15	09/15/2020	12:47 PM		Diatom	Thalassiosira	Thalassiosira subtilis				 25 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Alexandrium	Alexandrium compressum	habs	PSP	Saxitoxin	 38 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Ceratium	Ceratium furca	habs	nontoxic (anoxic)		 100 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Ceratium	Ceratium fusus	habs	nontoxic (anoxic)		 225 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Ceratium	Ceratium trichoceros	habs	nontoxic (anoxic)		 50 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Ceratium	Ceratium tripos	habs	nontoxic (anoxic)		 50 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Dinophysis	Dinophysis miles	habs	DSP	"OA, DTXs"	 650 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Noctiluca	Noctiluca scintillans		Fish killl caused by anoxia		 575 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Phyrophacus	Phyrophacus horologium				 125 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Phyrophacus	Phyrophacus steinii				 100 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Prorocentrum	Prorocentrum lima	habs	CFP		 100 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Prorocentrum	Prorocentrum micans	habs	nontoxic (anoxic)		 38 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Prorocentrum	Prorocentrum sigmoides	habs	nontoxic (anoxic)		 113 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Protoperidinium	Protoperidinium depressum				 150 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Protoperidinium	Protoperidinium mite				 25 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Protoperidinium	Protoperidinium oceanicum				 75 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Protoperidinium	Protoperidinium ovatum				 25 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Protoperidinium	Protoperidinium pyriformes				 75 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Protoperidinium	Protoperidinium sp.17				 25 							
+2020	September	15	09/15/2020	12:47 PM		Dinoflagellate	Pyrodinium	Pyrodinium bahamense	habs	PSP		 813 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Bacillara	Bacillara paxillifera				 800 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Bacteriastrum	Bacteriastrum comosum				 300 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Bacteriastrum	Bacteriastrum furcatum				" 10,375 "							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Bacteriastrum	Bacteriastrum minus				" 12,800 "							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Chaetoceros	Chaetoceros affinis				" 1,450 "							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Chaetoceros	Chaetoceros curvisetus				" 1,313 "							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Chaetoceros	Chaetoceros danicus				 725 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Chaetoceros	Chaetoceros decipiens				 675 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Chaetoceros	Chaetoceros denticulatus				 750 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Chaetoceros	Chaetoceros didymus				 575 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Chaetoceros	Chaetoceros lorenzianus				" 1,050 "							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Chaetoceros	Chaetoceros paradoxus				" 1,788 "							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Chaetoceros	Chaetoceros peruvians				 500 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Chaetoceros	Chaetoceros radicans				" 2,238 "							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Coscinodiscus	Coscinodiscus asteromphalus				 63 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Coscinodiscus	Coscinodiscus granii				 25 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Cylindrotheca	Cylindrotheca closterium				" 1,050 "							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Detonula	Detonula confervacea				 925 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Guinardia	Guinardia Flacida				 50 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Hemaiulus	Hemaiulus hauckii				 25 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Lauderia	Lauderia annulata				 750 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	lioloma	lioloma pacificum				 363 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Odontella	Odontella mobiliensis				 25 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Odontella	Odontella sinensis				 50 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Planktoniella	Planktoniella blanda				 375 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Pleurosigma	Pleurosigma angulatum				 225 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Pleurosigma	Pleurosigma normanii				 88 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia multistriata	habs	ASP	Domoic acid	" 1,125 "							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia pungens	habs	ASP	Domoic acid	 963 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.1	habs	ASP	Domoic acid	 450 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.2	habs	ASP	Domoic acid	" 1,063 "							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.3	habs	ASP	Domoic acid	 150 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Rhizosolenia	Rhizosolenia crassispina				 125 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Rhizosolenia	Rhizosolenia setigera				 238 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Skeletonema	Skeletonema spp.				" 5,625 "							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Thalassionema	Thalassionema frauenfeldii				 175 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Thalassionema	Thalassionema nitzchioides				 913 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Thalassiosora	Thalassiosora bacillare				 50 							
+2020	October	14	10/14/2020	1:23 PM		Diatom	Thalassiosora	Thalassiosora subtilis				 38 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Ceratium	Ceratium furca 	habs	nontoxic (anoxic)		 163 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Ceratium	Ceratium fusus	habs	nontoxic (anoxic)		 238 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Ceratium	Ceratium sp.	habs	nontoxic (anoxic)		 25 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Ceratium	Ceratium trichoceros	habs	nontoxic (anoxic)		 38 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Ceratium	Ceratium tripos	habs	nontoxic (anoxic)		 100 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Dinophsis	Dinophsis caudata	habs	DSP	"OA, DTXs"	 300 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Dinophysis	Dinophysis caudata	habs	DSP	"OA, DTXs"	 25 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Noctiluca	Noctiluca scintillans	habs	Fish killl caused by anoxia		" 1,963 "							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Prorocentrum	Prorocentrum micans	habs	nontoxic (anoxic)		 25 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Prorocentrum	Prorocentrum sigmoides	habs	nontoxic (anoxic)		 25 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Protoperedinium	Protoperedinium pyriformes				 88 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Protoperidinium	Protoperidinium depressum				 150 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Protoperidinium	Protoperidinium mite				 25 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Protoperidinium	Protoperidinium oblumgum				 150 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Protopreidinium	Protopreidinium oceanicum				 150 							
+2020	October	14	10/14/2020	1:23 PM		Dinoflagellate	Pyrodinium	Pyrodinium bahamense	habs	PSP		" 2,025 "							
+2020	November	15	10/15/2020	01:23 PM		Diatom	Chaetoceros	Chaetoceros peruvianus				 600 							
+2020	November	15	10/15/2020	01:23 PM		Diatom	Chaetoceros	Chaetoceros affinis				 650 							
+2020	November	15	10/15/2020	01:23 PM		Diatom	Coscinodiscus	Coscinodiscus granii				 125 							
+2020	November	15	10/15/2020	01:23 PM		Diatom	Coscinodiscus	Coscinodiscus wailesii				 175 							
+2020	November	15	10/15/2020	01:23 PM		Diatom	Hemaiulus	Hemaiulus indicus				 25 							
+2020	November	15	10/15/2020	01:23 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia multistriata	habs	ASP	Domoic acid	 663 							
+2020	November	15	10/15/2020	01:23 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia pungens	habs	ASP	Domoic acid	" 2,488 "							
+2020	November	15	10/15/2020	01:23 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.1	habs	ASP	Domoic acid	 950 							
+2020	November	15	10/15/2020	01:23 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.2	habs	ASP	Domoic acid	" 3,338 "							
+2020	November	15	10/15/2020	01:23 PM		Diatom	Skeletonema	Skeletonema spp.				" 28,663 "							
+2020	November	15	10/15/2020	01:23 PM		Diatom	Thalassionema	Thalassionema nitzchioides				" 3,725 "							
+2020	November	15	10/15/2020	01:23 PM		Dinoflagellate	Alexandrium	Alexandrium compressum	habs	PSP	Saxitoxin	 400 							
+2020	November	15	10/15/2020	01:23 PM		Dinoflagellate	Ceratium	Ceratium furca 				 263 							
+2020	November	15	10/15/2020	01:23 PM		Dinoflagellate	Ceratium	Ceratium fusus				 225 							
+2020	November	15	10/15/2020	01:23 PM		Dinoflagellate	Dinophsis	Dinophsis miles	habs	DSP		 100 							
+2020	November	15	10/15/2020	01:23 PM		Dinoflagellate	Noctiluca	Noctiluca scintillans	habs	nontoxic		 638 							
+2020	November	15	10/15/2020	01:23 PM		Dinoflagellate	Prorocentrum	Prorocentrum sigmoides				 25 							
+2020	November	15	10/15/2020	01:23 PM		Dinoflagellate	Protoperedinium	Protoperedinium pyriformes				 225 							
+2020	November	15	10/15/2020	01:23 PM		Dinoflagellate	Protoperidinium	Protoperidinium mite				 125 							
+2020	November	15	10/15/2020	01:23 PM		Dinoflagellate	Protoperidinium	Protoperidinium depressum				 225 							
+2020	November	15	10/15/2020	01:23 PM		Dinoflagellate	Pyrodinium	Pyrodinium bahamense	habs	PSP		" 2,075 "							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Bacteriastrum	Bacteriastrum comosum				 400 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Bacteriastrum	Bacteriastrum cumussum				 150 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Bacteriastrum	Bacteriastrum furcatum				" 1,675 "							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Bacteriastrum	Bacteriastrum minus				" 2,613 "							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Chaetoceros	Chaetoceros affinis				 300 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Chaetoceros	Chaetoceros compressus				" 1,000 "							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Chaetoceros	Chaetoceros danicus				 150 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Chaetoceros	Chaetoceros decipiens				 313 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Chaetoceros	Chaetoceros denticulatus				 400 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Chaetoceros	Chaetoceros didymus				" 1,225 "							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Chaetoceros	Chaetoceros lorenzianus				 450 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Chaetoceros	Chaetoceros paradoxus				 500 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Chaetoceros	Chaetoceros peruvians				 100 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Chaetoceros	Chaetoceros peruvianus				 150 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Chaetoceros	Chaetoceros radicans				" 1,325 "							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Lauderia	Lauderia annulata				 363 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Lioloma	Lioloma pacificum				 113 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Pleurosigma	Pleurosigma angulatum				 75 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Pleurosigma	Pleurosigma normanii				 200 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.1	habs	ASP		 500 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.2	habs	ASP		 225 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Rhizosolenia	Rhizosolenia crassispina				 25 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Rhizosolenia	Rhizosolenia setigera				 50 							
+2020	December	15	12/15/2020	02:11 PM		Diatom	Skeletonema	Skeletonema spp.				" 6,238 "							
+2020	December	15	12/15/2020	02:11 PM		Dinoflagellate	Alexandrium	Alexandrium compressum				 600 							
+2020	December	15	12/15/2020	02:11 PM		Dinoflagellate	Ceratium	Ceratium furca 	habs	nontoxic (anoxic)		 150 							
+2020	December	15	12/15/2020	02:11 PM		Dinoflagellate	Ceratium	Ceratium fusus	habs	nontoxic (anoxic)		 63 							
+2020	December	15	12/15/2020	02:11 PM		Dinoflagellate	Ceratium	Ceratium incisum	habs	nontoxic (anoxic)		 100 							
+2020	December	15	12/15/2020	02:11 PM		Dinoflagellate	Ceratium	Ceratium trichoceros	habs	nontoxic (anoxic)		 338 							
+2020	December	15	12/15/2020	02:11 PM		Dinoflagellate	Ceratium	Ceratium tripos	habs	nontoxic (anoxic)		 63 							
+2020	December	15	12/15/2020	02:11 PM		Dinoflagellate	Noctiluca	Noctiluca scintillans	habs	Fish killl caused by anoxia		 663 							
+2020	December	15	12/15/2020	02:11 PM		Dinoflagellate	Prorocentrum	Prorocentrum micans	habs	nontoxic (anoxic)		 25 							
+2020	December	15	12/15/2020	02:11 PM		Dinoflagellate	Prorocentrum	Prorocentrum sigmoides	habs	nontoxic (anoxic)		 25 							
+2020	December	15	12/15/2020	02:11 PM		Dinoflagellate	Protoperedinium	Protoperedinium pyriformes				 50 							
+2020	December	15	12/15/2020	02:11 PM		Dinoflagellate	Protoperidinium	Protoperidinium depressum				 113 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Bacteriastrum	Bacteriastrum comosum				 567 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Bacteriastrum	Bacteriastrum cumussum				 583 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Chaetoceros	Chaetoceros curvisetus				" 1,538 "							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Chaetoceros	Chaetoceros danicus				 104 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Chaetoceros	Chaetoceros decipiens				 571 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Chaetoceros	Chaetoceros paradoxus				 875 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Chaetoceros	Chaetoceros peruvianus				 279 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Chaetoceros	Chaetoceros radicans				" 2,958 "							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Chaetoceros	Chaetoceros simplex				" 1,867 "							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Coscinodiscus	Coscinodiscus granii				 121 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Coscinodiscus	Coscinodiscus wailesii				 113 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Cylindrotheca	Cylindrotheca closterium				 117 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Detonula	Detonula confervacea				 308 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Ditylum	Ditylum sol				 221 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Lauderia	Lauderia annulata				 208 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Lioloma	Lioloma pacificum				 146 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Odontella	Odontella mobiliensis				 88 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Pleurosigma	Pleurosigma normanii				 96 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia pungens	habs	ASP		 804 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.2	habs	ASP		 521 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Rhizosolenia	Rhizosolenia crassispina				 88 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Skeletonema	Skeletonema spp.				" 3,079 "							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Thalassionema	Thalassionema frauenfeldii				 333 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Thalassionema	Thalassionema nitzchioides				 504 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Thalassionema	Thalassionema nordenskioeldii				 100 							
+2021	January	14	1/14/2021	11:23 AM		Diatom	Thalassiosora	Thalassiosora subtilis				 50 							
+2021	January	14	1/14/2021	11:23 AM		Dinoflagellate	Alexandrium	Alexandrium compressum	habs	PSP		 117 							
+2021	January	14	1/14/2021	11:23 AM		Dinoflagellate	Ceratium	Ceratium incisum				 250 							
+2021	January	14	1/14/2021	11:23 AM		Dinoflagellate	Ceratium	Ceratium furca	habs	nontoxic (anoxic)		 471 							
+2021	January	14	1/14/2021	11:23 AM		Dinoflagellate	Ceratium	Ceratium tripos				 321 							
+2021	January	14	1/14/2021	11:23 AM		Dinoflagellate	Noctiluca	Noctiluca scintillans	habs	fish kill due to anoxia		 804 							
+2021	January	14	1/14/2021	11:23 AM		Dinoflagellate	Prorocentrum	Prorocentrum micans				 200 							
+2021	January	14	1/14/2021	11:23 AM		Dinoflagellate	Protoperedinium	Protoperedinium pyriformes				 58 							
+2021	January	14	1/14/2021	11:23 AM		Dinoflagellate	Protoperidinium	Protoperidinium depressum				 67 							
+2021	January	14	1/14/2021	11:23 AM		Dinoflagellate	Protoperidinium	Protoperidinium mite				 54 							
+2021	January	14	1/14/2021	11:23 AM		Dinoflagellate	Protopreidinium	Protopreidinium oceanicum				 75 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Bacteriastrum	commosum				" 2,550 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Bacteriastrum	minus				" 1,475 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Bacteriastrum	furcatum				" 4,950 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Chaetoceros	compressus				" 1,650 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Chaetoceros	curvisetus				" 3,050 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Chaetoceros	danicus				 250 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Chaetoceros	decipiens				" 1,875 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Chaetoceros	didymus				" 1,000 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Chaetoceros	paradoxus				" 2,725 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Chaetoceros	peruvianus				 700 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Chaetoceros	radicans				" 2,250 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Chaetoceros	simplex				 525 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Coscinodiscus	granii				" 1,600 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Coscinodiscus	wailesii				 525 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Cylindrotheca	closterium				 450 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Dactyliosolen	phuketensis				 125 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Lioloma	pacificum				 175 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Lauderia	annulata				 425 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Pleurosigma	normanii				 575 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Pleurosigma	angulatum				 400 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia pungens	habs	ASP		" 1,200 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia sp.2	habs	ASP		 925 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Pseudo-nitzschia	Pseudo-nitzschia multistriata	habs	ASP		 125 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Rhizosolenia	crassispina				 75 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Skeletonema	Skeletonema spp.				" 1,925 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Thalassiosora	subtilis				 825 							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Thalassionema	bacillare				" 1,100 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Thalassionema	nitzchioides				" 8,675 "							
+2021	February	17	2/17/2021	11:26 AM		Diatom	Thalassionema	frauenfeldii				 275 							
+2021	February	17	2/17/2021	11:26 AM		Dinoflagellate	Ceratium	furca				" 1,150 "							
+2021	February	17	2/17/2021	11:26 AM		Dinoflagellate	Ceratium	fusus				" 1,375 "							
+2021	February	17	2/17/2021	11:26 AM		Dinoflagellate	Ceratium	trichoceros				 75 							
+2021	February	17	2/17/2021	11:26 AM		Dinoflagellate	Noctiluca	scintillans	habs	fish kill due to anoxia		 75 							
+2021	February	17	2/17/2021	11:26 AM		Dinoflagellate	Pyrophacus	steinii				 25 							
+2021	February	17	2/17/2021	11:26 AM		Dinoflagellate	Prorocentrum	micans				 25 							
+2021	February	17	2/17/2021	11:26 AM		Dinoflagellate	Protoperidinium	depressum				 50 							
+2021	February	17	2/17/2021	11:26 AM		Dinoflagellate	Protoperidinium	mite				 75 							
+2021	February	17	2/17/2021	11:26 AM		Dinoflagellate	Protoperedinium	oceanicum				 50 							
+2021	February	17	2/17/2021	11:26 AM		Dinoflagellate	Protoperedinium	pyriformes				 25 							
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
