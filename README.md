@@ -1,2 +1,4 @@
 # Watch Hab R8
-Repository of marine phytoplankton and dinocyst in Eastern Visayas, Philippines
+Supplementary data for the paper "A snapshot on the distribution of coastal phytoplankton communities in five HAB-affected bays in Eastern Visayas, Philippines"
+
+
