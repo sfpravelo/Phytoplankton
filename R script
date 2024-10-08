@@ -1,7 +1,13 @@
+---
+Title: "A Snapshot on the Distribution of Coastal Phytoplankton Communities in Five HAB-Affected Bays in Eastern Visayas, Philippines"
+Authors: Ravelo SFP, Yap-Dejeto LG, Silaras MLS, Amparado MLL, Ocampo JA, Abria EG, Albina MB     
+---
+
 ### PCA for environmental dataset
-#Reference: https://www.datacamp.com/community/tutorials/pca-analysis-r
+
 #Setting of the working directory
 setwd("/Users/faithravelo/Desktop/Trial")
+
 #Attaching dataset and data summary
 env = read.csv("Physicochem.csv", header = TRUE)
 head(env)
@@ -10,22 +16,26 @@ summary(Site)
 class(Site)
 env$Site <- as.factor(Site)
 summary(env)
+
 #Running of the PCA
 myPr <- prcomp(env[, -13])
 myPr <- prcomp(env[, -13], scale = TRUE, center = TRUE)
 myPr
 summary(myPr)
 unclass(myPr)
+
 #Getting the eigenvalue and visualization
 library(factoextra)
 fviz_eig(myPr)
 eig.val <- get_eigenvalue(myPr)
 eig.val
+
 #Extraction of the PC score
 str(myPr)
 myPr$x
 final <- cbind(env, myPr$x[, 1:2])
 head(final)
+
 #Visualization
 library(ggplot2)
 ggplot(final, aes(x=PC1, y=PC2, col = Site, fill = Site)) +
@@ -34,20 +44,19 @@ ggplot(final, aes(x=PC1, y=PC2, col = Site, fill = Site)) +
   ylab("PC2 (18.37%)") +
   geom_point(shape = 21, col = "black") +
   labs(title = paste("PCA of the physicochemical parameters"))
+
 #Another way of visualizing
 library(ggbiplot)
 ggbiplot::ggbiplot(myPr, obs.scale = 1, var.scale = 1, groups = Site, ellipse = TRUE) + 
     geom_point(shape = 21, col = "black") + 
     labs(title = paste("PCA of the physicochemical parameters"))
+
 #Correlation between variables and principal components
 cor(env[, -13], final[, 14:15])
 
-------------------------
-
 ### PCA for Species abundance between site
-## https://www.benjaminbell.co.uk/2018/02/principal-components-analysis-pca-in-r.html
-## https://www.flutterbys.com.au/stats/tut/tut14.2.html
-## https://archetypalecology.wordpress.com/2018/02/17/principal-component-analysis-in-r/
+
+#Call library
 library(ade4)
 library(vegan)
 library(gclus)
@@ -57,22 +66,27 @@ library(FactoMineR)
 library(factoextra)
 setwd("/Users/faithravelo/Desktop/Trial")
 spe = read.csv("Phytoplankton.csv", header = TRUE, row.names = 1)
+
 #Helinger pre-transformation of data
 spe.h <- decostand(spe, "hellinger")
+
 #PCA
 spe.h.pca <- prcomp(spe.h, scale = TRUE, center = TRUE)
 s <- summary(spe.h.pca)
 s
 unclass(spe.h.pca)
+
 #Getting the eigenvalue and visualization
 fviz_eig(spe.h.pca)
 eig.val <- get_eigenvalue(spe.h.pca)
 eig.val
+
 #Continuation of the PCA
 layout(matrix(1:2, ncol=2))
 screeplot(spe.h.pca)
 screeplot(spe.h.pca, type="lines")
 biplot(spe.h.pca)
+
 #Visualization of data
 fviz_pca_biplot(spe.h.pca, repel = TRUE, col.var = "#2E9FDF", col.ind = "#696969")
 fviz_pca_biplot(spe.h.pca, col.ind = "cos2",
@@ -80,10 +94,9 @@ fviz_pca_biplot(spe.h.pca, col.ind = "cos2",
                 gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
                 repel = TRUE)
 
--------------------------
+### Correlation between physicochemical parameters and dominant phytoplankton taxa
 
-## Correlation between physicochemical parameters and dominant phytoplankton taxa
-## Reference:https://statsandr.com/blog/correlation-coefficient-and-correlation-test-in-r/
+#Call library
 library(ggplot2)
 library(Hmisc)
 library(correlation)
@@ -98,14 +111,18 @@ library(stats)
 require("tidyverse")
 require("Hmisc")
 require("corrplot")
+
 #Setting working directory
 setwd("/Users/faithravelo/Desktop/Trial")
+
 #Loading of dataset i.e Cambatutay data
 cor.data = read.csv("4.Biliran.csv", header = TRUE, row.names = 1) 
+
 #Getting the correlation of all matrix
 round(cor(cor.data),
       digits = 2 # rounded to 2 decimals
       )
+
 #Example correlation between 2 variables
 ggplot(cor.data) +
   aes(x = Pyrodinium, y = Temperature) +
@@ -116,10 +133,12 @@ test <- cor.test(cor.data$Pyrodinium, cor.data$Noctiluca)
 test
 res <- rcorr(as.matrix(cor.data)) #rcorr() accepts matrices only
 round(res$P, 3)
+
 #Combination of correlation coefficients and correlation tests
 correlation::correlation(cor.data,
                          include_factors = TRUE, method = "auto"
                         )
+
 #Visualization of entire PCA
 ggpairs(cor.data[, c("Pyrodinium", "Noctiluca", "Temperature")])
 palette <- colorRampPalette(c("#BB4444", "#EE9988", "#FFFFFF", "#77AADD", "#4477AA"))
@@ -129,6 +148,7 @@ corrplot(cor(cor.data), col=palette (200), tl.cex = 0.8, number.cex = 0.4,
          tl.col="black", tl.srt=90,
          diag=FALSE
         )
+
 #Visualization of selected data
 cc <- cor(cor.data, method = "pearson")
 cc1 <- cc[,-13:-23] #remove column
@@ -143,24 +163,27 @@ corrplot(cc2, method = "color", col = palette, tl.col = "black", number.cex = .6
          p.mat = p.mat, sig.level = 0.05, insig = "p-value",
         )
 
--------------------------
-
-## PCA Phytoplankton x Physico-chem x 5 bays
+### PCA Phytoplankton x Physico-chem x 5 bays
   
 install.packages("Factoshiny")
 library("Factoshiny")
+
 #Irong-Irong Bay
 data = read.csv("**Irong-Irong.csv", header = TRUE, row.names = 1)
 result <- Factoshiny(data)
+
 #Cambatutay Bay
 data = read.csv("**Cambatutay.csv", header = TRUE, row.names = 1)
 result <- Factoshiny(data)
+
 #Villareal Bay
 data = read.csv("**Villareal.csv", header = TRUE, row.names = 1)
 result <- Factoshiny(data)
+
 #Biliran Bay
 data = read.csv("**Biliran.csv", header = TRUE, row.names = 1)
 result <- Factoshiny(data)
+
 #Carigara Bay
 data = read.csv("**Carigara.csv", header = TRUE, row.names = 1)
 result <- Factoshiny(data)
